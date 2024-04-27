@@ -3,4 +3,5 @@
 
 اموزش استفاده : https://github.com/rah-nejat/cf-v2-page/blob/main/docs.pdf
 
-گرفتن UUID : https://uuid-generator-page.pages.dev
+گرفتن UUID : 
+https://uuid-generator-page.pages.dev/
